@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4774a88-9777-45d2-8157-5261575c2ec5</dc:identifier>
+        <dc:title>Twilight</dc:title>
+        <dc:creator opf:file-as="Meyer, Stephenie" opf:role="aut">Stephenie Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-18T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="font-family: 'MS Shell Dlg 2';"&gt;The #1 &lt;em&gt;New York Times&lt;/em&gt; bestseller is available for the first time in a mass market paperback edition, featuring a striking movie tie-in cover.&lt;/p&gt;&lt;p style="font-family: 'MS Shell Dlg 2';"&gt;Bella Swan's move to Forks, a small, perpetually rainy town in Washington, could have been the most boring move she ever made. But once she meets the mysterious and alluring Edward Cullen, Bella's life takes a thrilling and terrifying turn. Up until now, Edward has managed to keep his vampire identity a secret in the small community he lives in, but now nobody is safe, especially Bella, the person Edward holds most dear.&lt;/p&gt;&lt;p style="font-family: 'MS Shell Dlg 2';"&gt;Deeply romantic and extraordinarily suspenseful,&lt;em&gt;Twilight&lt;/em&gt; captures the struggle between defying our instincts and satisfying our desires. This is a love story with bite.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Little, Brown Books for Young Readers</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B000QRIGLW</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000QRIGLW</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316007443</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Paranormal</dc:subject>
+        <dc:subject>Vampires</dc:subject>
+        <dc:subject>Teen &amp; Young Adult</dc:subject>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>Social &amp; Family Issues</dc:subject>
+        <dc:subject>Dating &amp; Sex</dc:subject>
+        <dc:subject>Science Fiction &amp; Dystopian</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Ghosts</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Paranormal &amp; Urban</dc:subject>
+        <meta name="calibre:series" content="The Twilight Saga"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-07-04T01:24:24.357925+00:00"/>
+        <meta name="calibre:title_sort" content="Twilight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

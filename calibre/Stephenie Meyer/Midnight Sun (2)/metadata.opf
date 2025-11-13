@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a447728c-4845-45c8-9bde-1c0ac124f8f9</dc:identifier>
+        <dc:title>Midnight Sun</dc:title>
+        <dc:creator opf:file-as="Meyer, Stephenie" opf:role="aut">Stephenie Meyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-04T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;It's here! #1 bestselling author Stephenie Meyer makes a triumphant return to the world of Twilight with this highly anticipated companion: the iconic love story of Bella and Edward told from the vampire's point of view.&lt;/strong&gt; &lt;strong&gt;&lt;br&gt;&lt;/strong&gt;When Edward Cullen and Bella Swan met in &lt;em&gt;Twilight&lt;/em&gt; , an iconic love story was born. But until now, fans have heard only Bella's side of the story. At last, readers can experience Edward's version in the long-awaited companion novel, &lt;em&gt;Midnight Sun&lt;/em&gt;.&lt;br&gt;This unforgettable tale as told through Edward's eyes takes on a new and decidedly dark twist. Meeting Bella is both the most unnerving and intriguing event he has experienced in all his years as a vampire. As we learn more fascinating details about Edward's past and the complexity of his inner thoughts, we understand why this is the defining struggle of his life. How can he justify following his heart if it means leading Bella into danger?&lt;br&gt;In &lt;em&gt;Midnight Sun&lt;/em&gt; , Stephenie Meyer transports us back to a world that has captivated millions of readers and brings us an epic novel about the profound pleasures and devastating consequences of immortal love.&lt;br&gt;&lt;strong&gt;&lt;br&gt;"People do not want to just read Meyer's books; they want to climb inside them and live there." -- *Time&lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt; &lt;/span&gt;&lt;strong&gt;*&lt;br&gt;&lt;/strong&gt;"A literary phenomenon." -- *The New York Times&lt;strong&gt;* &lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Little, Brown Books for Young Readers</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B087V733YJ</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VAl-zQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316707046</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53287484</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B087V733YJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Vampires</dc:subject>
+        <meta name="calibre:series" content="The Twilight Saga"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-07-04T01:24:23.260810+00:00"/>
+        <meta name="calibre:title_sort" content="Midnight Sun"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

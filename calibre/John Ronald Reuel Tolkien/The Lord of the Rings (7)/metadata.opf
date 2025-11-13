@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8e00d92-fea1-4c63-afcb-b49fd232110a</dc:identifier>
+        <dc:title>The Lord of the Rings</dc:title>
+        <dc:creator opf:file-as="Tolkien, John Ronald Reuel" opf:role="aut">John Ronald Reuel Tolkien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-08-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, The Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages, it fell by chance into the hands of the hobbit Bilbo Baggins. From his fastness in the Dark Tower of Mordor, Sauron's power spread far and wide. He gathered all the Great Rings to him, but always he searched far and wide for the One Ring that would complete his dominion. On Bilbo's eleventy-first birthday, he disapeared, bequeathing to his young cousin, Frodo, the Ruling Ring and a perilous quest: to journey across Middle-earth, deep into the shadow of the Dark Lord, and destroy the Ring by casting it into the Cracks of Doom. THE LORD OF THE RINGS tells of the great quest undertaken by Frodo and the Fellowship of the Ring: Gandalf the Wizard; the hobbits Merry, Pippin and Sam; Gimli the Dwarf; Legolas the Elf; Boromir of Gondor; and a tall, mysterious stranger called Strider.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Houghton Mifflin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780618260256</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">V3lsKdY7X8MC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-17T03:24:31+00:00"/>
+        <meta name="calibre:title_sort" content="Lord of the Rings, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3edbf3e-31d5-4c6a-a19b-b7faf413f682</dc:identifier>
+        <dc:title>UNIX® and Linux® System Administration Handbook</dc:title>
+        <dc:creator opf:file-as="Nemeth, Evi &amp; Snyder, Garth &amp; Hein, Trent R. &amp; Whaley, Ben &amp; Mackin, Dan" opf:role="aut">Evi Nemeth</dc:creator>
+        <dc:creator opf:file-as="Nemeth, Evi &amp; Snyder, Garth &amp; Hein, Trent R. &amp; Whaley, Ben &amp; Mackin, Dan" opf:role="aut">Garth Snyder</dc:creator>
+        <dc:creator opf:file-as="Nemeth, Evi &amp; Snyder, Garth &amp; Hein, Trent R. &amp; Whaley, Ben &amp; Mackin, Dan" opf:role="aut">Trent R. Hein</dc:creator>
+        <dc:creator opf:file-as="Nemeth, Evi &amp; Snyder, Garth &amp; Hein, Trent R. &amp; Whaley, Ben &amp; Mackin, Dan" opf:role="aut">Ben Whaley</dc:creator>
+        <dc:creator opf:file-as="Nemeth, Evi &amp; Snyder, Garth &amp; Hein, Trent R. &amp; Whaley, Ben &amp; Mackin, Dan" opf:role="aut">Dan Mackin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-19T19:05:31+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-04T16:19:48.541770+00:00"/>
+        <meta name="calibre:title_sort" content="UNIX® and Linux® System Administration Handbook"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

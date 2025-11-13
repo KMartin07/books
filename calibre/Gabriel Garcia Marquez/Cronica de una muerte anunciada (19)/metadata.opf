@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecb1e91c-f46f-4c7f-a3dd-ee9af2320eee</dc:identifier>
+        <dc:title>Crónica de una muerte anunciada</dc:title>
+        <dc:creator opf:file-as="Márquez, Gabriel García" opf:role="aut">Gabriel García Márquez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Crónica de una muerte anunciada, novela corta publicada en 1981, es una de Las obras más conocidas y apreciadas de García Márquez. Relata en forma de reconstrucción casi periodística el asesinato de Santiago Nasar a manos de los gemelos Vicario. Desde el comienzo de la narración se anuncia que Santiago Nasar va a morir: es el joven hijo de un árabe emigrado y parece ser el causante de la deshonra de Ángela, hermana de los gemelos, que ha contraído matrimonio el día anterior y ha sido rechazada por su marido. «Nunca hubo una muerte tan anunciada», declara quien rememora los hechos veintisiete años después: los vengadores, en efecto, no se cansan de proclamar sus propósitos por todo el pueblo, como si quisieran evitar el mandato del destino, pero un cúmulo de casualidades hace que quienes pueden evitar el crimen no logren intervenir o se decidan demasiado tarde. El propio Santiago Nasar se levanta esa mañana despreocupado, ajeno por completo a la muerte que le aguarda.</dc:description>
+        <dc:identifier opf:scheme="ISBN">968-13-1247-3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:timestamp" content="2025-11-08T17:53:27.265409+00:00"/>
+        <meta name="calibre:title_sort" content="Crónica de una muerte anunciada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

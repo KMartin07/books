@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5efbbd5-5386-4a6d-9dfa-4befb1f7b7d1</dc:identifier>
+        <dc:title>The Hobbit</dc:title>
+        <dc:creator opf:file-as="Tolkien, J. R. R." opf:role="aut">J. R. R. Tolkien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-20T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This is the story of how a Baggins had an adventure, and found himself doing and saying things altogether unexpected... ‘A flawless masterpiece’The Times Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely travelling further than the pantry of his hobbit-hole in Bag End. But his contentment is disturbed when the wizard, Gandalf, and a company of thirteen dwarves arrive on his doorstep one day, to whisk him away on a journey ‘there and back again’. They have a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon... The prelude to THE LORD OF THE RINGS, THE HOBBIT has sold many millions of copies since its publication in 1937, establishing itself as one of the most beloved and influential books of the twentieth century.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007322602</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">U799AY3yfqcC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Dragons &amp; Mythical Creatures</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-17T03:24:31+00:00"/>
+        <meta name="calibre:title_sort" content="Hobbit, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

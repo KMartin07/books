@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">161a1889-3681-49a4-85b6-8e68e1ced1e6</dc:identifier>
+        <dc:title>Homeland</dc:title>
+        <dc:creator opf:file-as="Doctorow, Cory" opf:role="aut">Cory Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-05T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The fast-moving, passionate, and as current as next week sequel to Cory Doctorow's New York Times bestselling Little Brother, Homeland is a paean to activism, to courage, to the drive to make the world a better place. In Cory Doctorow's wildly successful Little Brother, young Marcus Yallow was arbitrarily detained and brutalized by the government in the wake of a terrorist attack on San Francisco—an experience that led him to become a leader of the whole movement of technologically clued-in teenagers, fighting back against the tyrannical security state. A few years later, California's economy collapses, but Marcus's hacktivist past lands him a job as webmaster for a crusading politician who promises reform. Soon his former nemesis Masha emerges from the political underground to gift him with a thumbdrive containing a Wikileaks-style cable-dump of hard evidence of corporate and governmental perfidy. It's incendiary stuff—and if Masha goes missing, Marcus is supposed to release it to the world. Then Marcus sees Masha being kidnapped by the same government agents who detained and tortured Marcus years earlier. &lt;/p&gt;
+&lt;p&gt;Marcus can leak the archive Masha gave him—but he can't admit to being the leaker, because that will cost his employer the election. He's surrounded by friends who remember what he did a few years ago and regard him as a hacker hero. He can't even attend a demonstration without being dragged onstage and handed a mike. He's not at all sure that just dumping the archive onto the Internet, before he's gone through its millions of words, is the right thing to do. &lt;/p&gt;
+&lt;p&gt;Meanwhile, people are beginning to shadow him, people who look like they're used to inflicting pain until they get the answers they want. &lt;/p&gt;
+&lt;p&gt;At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tor Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781466805873</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">j97PrGdPlDkC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young Adult Fiction</dc:subject>
+        <dc:subject>Dystopian</dc:subject>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Themes</dc:subject>
+        <dc:subject>Activism &amp; Social Justice</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-20T04:03:33.325847+00:00"/>
+        <meta name="calibre:title_sort" content="Homeland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef5b38b5-d0f2-4c50-81a8-f98cd9fc9e74</dc:identifier>
+        <dc:title>1984</dc:title>
+        <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-15T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"1984" by George Orwell is a dystopian masterpiece that paints a chilling vision of a totalitarian future. Set in a world where Big Brother watches your every move, the novel follows Winston Smith, a low-ranking member of the ruling Party who begins to question the oppressive regime. &lt;/p&gt;
+&lt;p&gt;Orwell's portrayal of a surveillance state, thought control, and the erasure of truth is eerily relevant in today's digital age. The novel introduces the concept of "Newspeak," a language designed to eliminate independent thought. &lt;/p&gt;
+&lt;p&gt;As Winston rebels against the system, he embarks on a dangerous journey for truth and freedom. The story is a harrowing exploration of the consequences of mass surveillance and authoritarianism. &lt;/p&gt;
+&lt;p&gt;"1984" is not just a work of fiction; it's a warning about the dangers of sacrificing individual liberties for the illusion of security. It's a thought-provoking, unsettling, and thought-provoking read that remains profoundly relevant in our modern world. &lt;/p&gt;
+&lt;p&gt;ABOUT THE AUTHORGeorge Orwell, the pen name of Eric Arthur Blair, was a renowned English writer and essayist. Born on June 25, 1903, in Motihari, India, he is best known for his literary contributions that challenged totalitarianism and explored the consequences of oppressive government systems. &lt;/p&gt;
+&lt;p&gt;Orwell's early life included experiences as an imperial police officer in Burma, which profoundly influenced his views on British imperialism. His first notable work, "Down and Out in Paris and London", was published in 1933, recounting his experiences among the working class and homeless. &lt;/p&gt;
+&lt;p&gt;However, it was Orwell's dystopian novels that catapulted him to literary fame. "Animal Farm," published in 1945, is a satirical allegory that critiques the Russian Revolution and the rise of Stalinism. In 1949, he released his magnum opus, "Nineteen Eighty-Four," which portrayed a nightmarish future under a totalitarian regime, coining terms like "Big Brother" and "thoughtcrime" that have become part of popular culture. &lt;/p&gt;
+&lt;p&gt;Orwell's writing style is marked by its clarity and social commentary. He was a passionate advocate for truth and freedom of expression, which is evident in his essays like "Politics and the English Language. &lt;/p&gt;
+&lt;p&gt;"Sadly, Orwell's life was cut short by tuberculosis, and he passed away on January 21, 1950, at the age of 46. His works remain not only literary classics but also influential critiques of authoritarianism and the dangers of propaganda, ensuring his enduring legacy in the world of literature and political thought.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Librofilio</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782384613687</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">73j1EAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Dystopian</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-08-20T04:09:18.675249+00:00"/>
+        <meta name="calibre:title_sort" content="1984"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
